@@ -1,0 +1,4 @@
+001-1004c00	T 001-1004c	buddhist/T-taisho/T48/10/T48-1004.png
+001-1005a00	T 001-1005a	buddhist/T-taisho/T48/10/T48-1005.png
+001-1005b00	T 001-1005b	buddhist/T-taisho/T48/10/T48-1005.png
+001-1005c00	T 001-1005c	buddhist/T-taisho/T48/10/T48-1005.png
